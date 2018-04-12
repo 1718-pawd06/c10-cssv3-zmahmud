@@ -1,0 +1,50 @@
+/*
+* Zehra Mahmud
+* 3/26/18
+* C10
+*/
+
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Put body attributes here */
+
+body {
+	background-color:#f9e3f8;
+	color:black;
+	font-family:Palatino;
+
+}
+
+h1 {
+	text-align:center;
+	font-size:24pt;
+	text-decoration:overline underline;
+	background-color:#c9fff3;
+}
+
+h2,h4,h6 {
+	background-color:rgb(60,150,30);
+}
+
+h3,h5 {
+	background-color:MistyRose;
+}
+
+p {
+	background-color:White;
+	color:#ec2f4b;
+}
+
+ul {
+	background-color:White;
+	color:#8a2be2;
+}
+img {
+	float:right;
+	border:1px solid #021a40;
+}
